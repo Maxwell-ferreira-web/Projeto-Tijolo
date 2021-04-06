@@ -1,2 +1,0 @@
-# Projeto Tijolo
- Primeiro Repositorio
